@@ -122,6 +122,6 @@ lib/
 
 # For testing purposes
 src/Main.ts
-src/Index.ts
+#src/Index.ts
 
 src/Index.ts.bak
